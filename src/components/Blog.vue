@@ -31,7 +31,7 @@ a {
 
 <script>
 import axios from 'axios'
-const POST_END_POINT = 'http://blog.alexcodesign.work'
+const POST_END_POINT = 'https://blog.alexcodesign.work'
 
 export default {
   name: 'Blog',
