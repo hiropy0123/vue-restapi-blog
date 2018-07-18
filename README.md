@@ -1,4 +1,5 @@
-# vueblog
+# Vue Blog
+Vue + REST API Blog
 
 ## Project setup
 ```
